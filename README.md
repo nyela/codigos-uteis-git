@@ -1,15 +1,15 @@
 # codigos-uteis-git
 lista de codigos uteis do git
 
-1- git status
+1- git status <br _>
   visualisa o status dos arquivos
   
-2- git add .
+2- git add . <br _>
   adiciona todos os arquivos editados para rastreamento
   
-3- git commit -m "comentario"
+3- git commit -m "comentario" <br _>
   torna permanente as mudanças feitas
   
-4 - git push origin master
+4 - git push origin master <br _>
   faz o psuh dos arquivos para o github 
   

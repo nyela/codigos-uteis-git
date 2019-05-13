@@ -1,7 +1,7 @@
 # codigos-uteis-git
 lista de codigos uteis do git
 
-1- git clone nome <br _>
+1- git clone https://github.com/nyela/nome <br _>
   clona o repositorio no pc
   
 2- git status <br _>
